@@ -116,6 +116,6 @@ Include = /etc/pacman.d/arcolinux-mirrorlist
 SigLevel = Required DatabaseOptional
 Include = /etc/pacman.d/arcolinux-mirrorlist
 
-[hefftor-repo]
+[bo-repo]
 SigLevel = Optional TrustedOnly 
-Server = https://bradheff.github.io/$repo/$arch
+Server = https://bobo5290461.github.io/$repo/$arch
