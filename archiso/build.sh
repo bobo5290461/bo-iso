@@ -2,8 +2,8 @@
 
 set -e -u
 
-iso_name=arcolinux-bobo
-iso_label="arcolinux-bobo-v20.03.18"
+iso_name=arcobobo
+iso_label="arcobobo-v20.03.18"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
 iso_version="v20.3.18"
