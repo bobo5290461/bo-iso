@@ -2,8 +2,8 @@
 
 set -e -u
 
-iso_name=arcobobo-bspwm
-iso_label="arcobobo-bspwm-y$(date +%y).m$(date +%m).d$(date +%d)"
+iso_name=arcobobo
+iso_label="arcobobo-y$(date +%y).m$(date +%m).d$(date +%d)"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
 iso_version="y$(date +%y).m$(date +%m).d$(date +%d)"
